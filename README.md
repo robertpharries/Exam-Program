@@ -1,6 +1,6 @@
 # Exam-Program
 
-Examination program created in Java as apart of a university assignment
+Examination program created in Java as apart of a university assignment.
 Demonstrates usage of:
 
 Client/Server structure, with network connection
